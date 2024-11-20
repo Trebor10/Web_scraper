@@ -1,0 +1,22 @@
+#INFORMACIJE
+<div class="m6QErb WNBkOb XiKgde " aria-label="Štimac centar dentalne medicine" role="main" jslog="24393;mutable:true;metadata:WyIwYWhVS0V3am1uT0s2aTlpSkF4WGNfN3NJSGFqbEpwVVE4QmNJQXlnQiJd" style="">
+
+#ADRESA
+<button class="CsEnBe" jsaction="pane.wfvdle22;clickmod:pane.wfvdle22;focus:pane.focusTooltip;blur:pane.blurTooltip" aria-label="adresu: Nova cesta 3, 10000, Zagreb " data-item-id="address" data-tooltip="Kopiranje adrese" jslog="36622; track:click; mutable:true;"><div class="AeaXub"><div class="cXHGnc"><span class="google-symbols PHazN" aria-hidden="true" style="font-size: 24px;"></span></div><div class="rogA2c "><div class="Io6YTe fontBodyMedium kR99db fdkmkc ">Nova cesta 3, 10000, Zagreb</div><div class="gSkmPd fontBodySmall CuiGbf DshQNd"></div></div></div></button>
+
+#RADNO VRIJEME
+aria-lable="srijeda,07 – 21; četvrtak,07 – 21; petak,07 – 21; subota,Zatvoreno; nedjelja,Zatvoreno; ponedjeljak,Zatvoreno; utorak,07 – 21. Sakrij radno vrijeme u tjednu"
+
+#WEB
+<a class="CsEnBe" jsaction="pane.wfvdle31;clickmod:pane.wfvdle31;focus:pane.focusTooltip;blur:pane.blurTooltip" aria-label="web-lokaciju: drstimac.com " data-item-id="authority" data-tooltip="Otvaranje web-lokacije" jslog="3443; track:click; mutable:true;metadata:W251bGwsIixBT3ZWYXcyRGhRUl81Um9TOU9Xa0MxUlMycDRzLCwwYWhVS0V3am1uT0s2aTlpSkF4WGNfN3NJSGFqbEpwVVE2MWdJRXlnTywiXQ==" href="https://drstimac.com/">
+
+#TELEFON
+<button class="CsEnBe" jsaction="pane.wfvdle34;clickmod:pane.wfvdle34;focus:pane.focusTooltip;blur:pane.blurTooltip" aria-label="telefon: 01 3633 602 " data-item-id="phone:tel:013633602" data-tooltip="Kopiranje telefonskog broja" jslog="18491; track:click; mutable:true;metadata:WyIwYWhVS0V3am1uT0s2aTlpSkF4WGNfN3NJSGFqbEpwVVFfZG9CQ0JBb0RBIl0=">
+
+#RECENZIJE
+<tr class="BHOKXe" role="img" aria-label="5 zvj.,897 recenzija"><td class="yxmtmf fontBodyMedium" role="presentation">5</td><td class="ZVa0Ic" role="presentation"><div class="XINzN"><div class="oxIpGd" style="padding-left: 100%;"></div></div></td></tr>
+<tr class="BHOKXe" role="img" aria-label="4 zvj.,7 recenzija"><td class="yxmtmf fontBodyMedium" role="presentation">4</td><td class="ZVa0Ic" role="presentation"><div class="XINzN"><div class="oxIpGd" style="padding-left: 0.780379%;"></div></div></td></tr>
+<tr class="BHOKXe" role="img" aria-label="3 zvj.,2 recenzije"><td class="yxmtmf fontBodyMedium" role="presentation">3</td><td class="ZVa0Ic" role="presentation"><div class="XINzN"><div class="oxIpGd" style="padding-left: 0.222965%;"></div></div></td></tr>
+<tr class="BHOKXe" role="img" aria-label="2 zvj.,6 recenzija"><td class="yxmtmf fontBodyMedium" role="presentation">2</td><td class="ZVa0Ic" role="presentation"><div class="XINzN"><div class="oxIpGd" style="padding-left: 0.668896%;"></div></div></td></tr>
+<tr class="BHOKXe" role="img" aria-label="1 zvj.,43 recenzije"><td class="yxmtmf fontBodyMedium" role="presentation">1</td><td class="ZVa0Ic" role="presentation"><div class="XINzN"><div class="oxIpGd" style="padding-left: 4.79376%;"></div></div></td></tr>
+<div role="img" class="YTkVxc ikjxab" aria-label="4,8 zvj."><div class="qxPNJf"></div><div class="qxPNJf"></div><div class="qxPNJf"></div><div class="qxPNJf"></div><div class="qxPNJf"></div></div>
