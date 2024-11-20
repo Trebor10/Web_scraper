@@ -94,7 +94,7 @@ def get_phone_number(phone_number_selector, info_html): #DOHVAĆANJE BROJA TELEF
 def get_information_from_urls(driver, urls, names, selectors, final_info=[]): #PROLAZAK KROZ LISTU URLOVA I DOHVAĆANJE INFORMACIJE O OBJEKTU
     for i in range(len(urls)):
         driver.get(urls[i])
-        time.sleep(5)
+        time.sleep(5) #TRENUTNO NAJBOLJI BALANS IZMEĐU BRZINE I IZBJEGAVANJA GOOGLOVE DODATNE PORVJERE (POTREBNO JOŠ TESTIRANJA)
         info = driver.find_element(By.CSS_SELECTOR, f'[aria-label="{names[i]}"]')
         info_html = driver.execute_script("return arguments[0].outerHTML;", info)
         current_info = []

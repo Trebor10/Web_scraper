@@ -5,6 +5,11 @@ from misc import *
 from find import *
 from get import *
 
+#TO DO:
+    # Implementiraj GUI
+    # Dodaj dohvaćanje recenzija
+    # Omogući različite oblike outputa
+    
 #KORISNIK UNOSI SEARCH PROMPT I INCIJALIZACIJA SELEKTORA
 search_prompt = str(input("Search prompt: "))
 selectors = initialize_selectors()
