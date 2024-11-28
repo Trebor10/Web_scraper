@@ -36,5 +36,9 @@ names, urls = find_maps_links_and_names(results_htmls)
 final_info = get_information_from_urls(driver, urls, names, selectors)
 
 #ISPIS INFORMACIJA (RASPORED: [IME, ADRESA, RADNO_VRIJEME, WEB_LINK, BROJ_TELEFONA, INSTAGRAM, FACEBOOK, LINKEDIN])
-print(final_info)
-  
+lines = []
+for info in final_info:
+    lines.append(info[0] + '|' + info[1] + '|' + info[2] + '|' + info[3] + '|' + info[4] + '|' + info[5] + '|' + info[6] + '|' + info[7] +'\n') 
+
+with open("output.txt", "w", encoding="utf-8") as file:
+    file.writelines(lines)

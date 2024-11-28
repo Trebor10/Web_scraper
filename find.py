@@ -10,7 +10,7 @@ def find_maps_links_and_names(html_list, urls=[], names=[]): #FUNKCIJA KOJA ZA S
         match = re.search(r'aria-label="[^"]*"[^>]*?href="[^"]*"', elem)
         if match:
             match_text = match.group()
-            if "Posjetite web-lokaciju mjesta" and "Oglas" not in match_text:
+            if "Posjetite web-lokaciju mjesta" not in match_text and "Oglas" not in match_text:
                 web_link = match_text.split('"')[3]
                 urls.append(web_link)
                 match2 = re.search(r'aria-label=".*?"', elem)
